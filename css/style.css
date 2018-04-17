@@ -1,0 +1,220 @@
+body{
+	margin: auto;
+}
+nav{
+	background-color: #2194f1;
+}
+.navmenu{
+	float:right;
+	margin-top: 39.84px;
+	margin-right: 50.688px;
+	height: 13.344px;
+	font-family: poppinsibol;
+	font-size: 14pt;
+	color: #ffffff;
+
+}
+.logo{
+	margin-top: 17.376px;
+	margin-left: 50.688px;
+	width: 	74.688px;
+	height: 74.688px;
+}
+a{
+	text-decoration:none;
+	padding:10px 15px 9px 15px;
+}
+p{
+	margin: 0px 0px;
+}
+.blue{
+	background-color: #2194f1;
+	height: 508.72px;
+}
+.white{
+	background-color:#ffffff;
+	margin:0px;
+	height:  5.044in;
+	padding-top: 1.472in;
+	padding-right: 5.883in;
+	padding-left: 1.375in;
+}
+.content{
+	padding:85.344px;
+	padding-left: 125px;
+	width: 600.6px;
+}
+.big{
+	font-family: poppinex;
+	font-size: 48.06pt;
+	color: #ffffff;
+}
+.small{
+	font-family: poppinli;
+	font-size: 18pt;
+	color: #ffffff;
+}
+.device{
+	float:right; 
+	height: 600px;
+	padding-right: 34px; 
+
+}
+.trans{
+	margin-top: 34.656px;
+	width:202.656px;
+	height: 53.376px;
+	background: transparent;
+	border:2px solid white;
+	border-radius: 16px;
+	font-size: 14.02pt;
+	font-family: poppinbold;
+	color: #ffffff;
+}
+.nottrans{
+	margin-top: 34.656px;
+	width:202.656px;
+	height: 53.376px;
+	background-color:#ffffff ;
+	border:2px solid white;
+	border-radius: 16px;
+	font-size: 14.02pt;
+	font-family: poppinbold;
+	color: #2194f1;
+	margin-left: 30.624px;
+
+}
+
+.title{
+	font-size: 36pt;
+	font-family: poppinex;
+	margin-bottom: 0.486in; 
+}
+.colblue{
+	color: #2194f1;
+}
+.firstparag{
+	font-size: 12pt;
+	font-family: montserat;
+	text-align: left;
+}
+.secondparag{
+	font-size: 12pt;
+	font-family: montserat;
+	text-align: left;
+}
+.bluebot{
+	background-color:#2194f1 ;
+	height: 7.090in;
+	overflow: hidden;
+}
+.bottom{
+	width: auto;
+	margin: 0;
+	padding-top: 0.722in;
+	text-align:center;
+	color: #ffffff;
+}
+.left{
+	float: left;
+	padding-left: 1.306in;
+	padding-top: 0.736in;
+	margin-right: 0.145sin;
+}
+.right{
+	float: right;
+	padding-right: 1.306in;
+	padding-top: 0.736in;
+	text-align: right;
+}
+.featurename{
+	font-size: 18pt;
+}
+.bluebot p{
+	padding-bottom:0.550in; 
+	color: #ffffff;
+	font-family: montserat;
+}
+.iphone{
+	margin:0 0.947in;
+	width: 3.06in;
+}
+.title-bot{
+	font-size: 24pt;
+}
+.bottom-black{
+	width: auto;
+	margin: 0;
+	padding-top: 0.722in;
+	text-align:center;
+}
+.botparag{
+	width: 7.625in;
+	margin: auto;
+	text-align:center;
+}
+
+.whitebot{
+	height: 3.792in;
+	margin: 0 auto;
+}
+.footer{
+	height: 1.389in;
+}
+.footerlogo{
+	width: 0.458in;
+	padding: 0.292in;
+	margin-left: 6.5in; 
+}
+.footerparag{
+	margin-left:5.8in ;
+	color: #ffffff;
+	font-size: 12pt;
+}
+.left .cloud{
+	float: left;
+	margin-right: 0.264in;
+	margin-top: 0.174in;
+}
+.right .cloud{
+	float: right;
+	margin-left: 0.264in;
+	margin-top: 0.174in;
+}
+.cloud{
+	width: 0.569in;
+	color: #ffffff;
+}
+.android,.apple{
+	width:0.847in;
+	margin-top: 0.375in;
+}
+.android{
+	margin-left: 5.4in;
+}
+.apple{
+	margin-left:1.194in;
+}
+footer{
+	background-color: #2194f1;
+}
+@font-face {
+    font-family: poppinex;
+    src: url(../font/Poppins-ExtraLight.otf);
+}
+@font-face {
+    font-family: poppinli;
+    src: url(../font/Poppins-Light.otf);
+}
+@font-face {
+    font-family: poppinsibol;
+    src: url(../font/Poppins-SemiBold.otf);
+}
+@font-face {
+    font-family: poppinbold;
+    src: url(../font/Poppins-Bold.otf);
+}
+@font-face {
+    font-family: montserat;
+    src: url(../font/Montserrat-Regular.otf);
+}
